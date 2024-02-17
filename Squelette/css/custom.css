@@ -12,7 +12,12 @@ body{
 
 #home{
    background-image: url(../images/hero-image.jpg);
-   background-size: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+   height: auto;
+   width: 100%;
+
 }
 footer{
    padding-top: 200px;
